@@ -1,0 +1,26 @@
+{
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casperamy/sugardough.git"
+  },
+  "author": "aarya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casperamy/sugardough/issues"
+  },
+  "homepage": "https://github.com/casperamy/sugardough#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap-social": "^5.1.1",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9"
+  }
+}
